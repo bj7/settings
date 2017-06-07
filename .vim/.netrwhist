@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers'
+let g:netrw_dirhist_2='/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/clickFilters'
+let g:netrw_dirhist_3='/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/dialogs'
+let g:netrw_dirhist_4='/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/clickFilters'
+let g:netrw_dirhist_5='/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/dialogs'
