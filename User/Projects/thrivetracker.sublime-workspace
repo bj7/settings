@@ -1,0 +1,2461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fanc",
+				"fancyCheckbox"
+			],
+			[
+				"M",
+				"Mono"
+			],
+			[
+				"tab",
+				"table1Data"
+			],
+			[
+				"shu",
+				"shouldScrollToItem"
+			],
+			[
+				"table",
+				"table1Data"
+			],
+			[
+				"item",
+				"itemKeyName〔variable〕"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"shou",
+				"shouldScrollToItem"
+			],
+			[
+				"repo",
+				"reportsService"
+			],
+			[
+				"addGoalIt",
+				"addGoalItemsToRotWorker"
+			],
+			[
+				"tabl",
+				"table1"
+			],
+			[
+				"inserO",
+				"insertOffersIntoRotationsSettings"
+			],
+			[
+				"group",
+				"groupId"
+			],
+			[
+				"proces",
+				"processOffers"
+			],
+			[
+				"insertOffer",
+				"insertOffersIntoRotationsSettings"
+			],
+			[
+				"newOffer",
+				"newOfferNameCallback"
+			],
+			[
+				"new",
+				"newOfferCallback"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"click",
+				"clickConv"
+			],
+			[
+				"offer",
+				"$offerId〔variable〕"
+			],
+			[
+				"confi",
+				"config"
+			],
+			[
+				"tmp",
+				"tmpItemMap"
+			],
+			[
+				"tm",
+				"tmpGroupMap"
+			],
+			[
+				"selected",
+				"selectedGroups"
+			],
+			[
+				"select",
+				"selectedGroups"
+			],
+			[
+				"pars",
+				"parseInt〔function〕"
+			],
+			[
+				"selec",
+				"selectedGroups"
+			],
+			[
+				"displa",
+				"displayData"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"getNo",
+				"getNotificationsFull"
+			],
+			[
+				"java",
+				"JavaScript"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/singleTableModal.js",
+			"settings":
+			{
+				"buffer_size": 18770,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/table.js",
+			"settings":
+			{
+				"buffer_size": 24973,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/views/directives/rotationCreate.html",
+			"settings":
+			{
+				"buffer_size": 16733,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/offers_and_lps.html",
+			"settings":
+			{
+				"buffer_size": 101772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/offers_and_lps.js",
+			"settings":
+			{
+				"buffer_size": 118026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/addOfferRot.js",
+			"settings":
+			{
+				"buffer_size": 9834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/views/directives/addOfferRot.html",
+			"settings":
+			{
+				"buffer_size": 4216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reactJSX/insertIntoRotations.js",
+			"settings":
+			{
+				"buffer_size": 5623,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/rotationCreate.js",
+			"settings":
+			{
+				"buffer_size": 64736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/buttons.js",
+			"settings":
+			{
+				"buffer_size": 1917,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorscheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pp",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Tooltip Theme"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Select Next"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Disable Inline Tooltips"
+			],
+			[
+				"sublimerge ",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"compare ",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"compare",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"colorsc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"bookma",
+				"Bookmarks: Select Next"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"show err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter sett",
+				"SublimeLinter: Choose Tooltip Theme"
+			],
+			[
+				"linter set",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"themr ",
+				"Themr: List themes"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"reind",
+				"ReIndent: to 4"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"linter mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"dock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"a file",
+				"A File Icon: Settings"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"ReIndent: to 4"
+			],
+			[
+				"ind",
+				"ReIndent: to 4"
+			],
+			[
+				"projec",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"project ma",
+				"Project Manager: Append Project"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"subli",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"redin",
+				"ReIndent: to 4"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"project mana",
+				"Project Manager: Open Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Open Project"
+			],
+			[
+				"project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"bookmark ne",
+				"Bookmarks: Select Next"
+			],
+			[
+				"toggle",
+				"Bookmarks: Toggle"
+			],
+			[
+				"boo",
+				"Bookmarks: Select Next"
+			],
+			[
+				"bookm",
+				"Bookmarks: Toggle"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"indnet",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"ReIndent: to 4"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"indent",
+				"ReIndent: to 4"
+			],
+			[
+				"json rein",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"index",
+				"Indexing Status"
+			],
+			[
+				"colors",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"python",
+			"python -m json.tool",
+			"json.tool",
+			"2+2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joshuabernitt/thrivetracker",
+		"/Users/joshuabernitt/thrivetracker/public_html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts",
+		"/Users/joshuabernitt/thrivetracker/public_html/views",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/reports"
+	],
+	"file_history":
+	[
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/table.js",
+		"/Users/joshuabernitt/.hyper.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/create_rotations.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/app.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/initFuncs.js",
+		"/Users/joshuabernitt/thrivetracker/tests/scripts/unserialize.spec.js",
+		"/Users/joshuabernitt/thrivetracker/tests/scripts/largeArrayToList.spec.js",
+		"/Users/joshuabernitt/thrivetracker/tests/scripts/unserialize.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/reports/showDrillDown.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/drillDown.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/reports/showDrillDown.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/drillDown.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/reportsServices.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/reports/newDrillDown.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/reports/newDrillDown.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/reports/createReport.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reports/createReport.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reactJSX/swapOffers.js",
+		"/Users/joshuabernitt/thrivetracker/package.json",
+		"/Users/joshuabernitt/thrivetracker/Gruntfile.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/queue.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/create_general.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/reports/exportResult.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/index.php",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/config.inc.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/Services/Database/Database.php",
+		"/Users/joshuabernitt/thrivetracker/.thrive",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/offers/addEditOffers.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/offers/offerNameAndEdit.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/offers.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/offers.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/rotationCreate.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/addOfferRot.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/rotationCreate.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/rotations.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/rotations.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reactJSX/insertIntoRotations.js",
+		"/Users/joshuabernitt/thrivetracker/.eslintrc",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/singleTableModal.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/topnav.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/reports/drillDown.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/addOfferRot.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/rotation.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/rotation.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/rotationMetrics.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/rotationService.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/offers_and_lps.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/offers_and_lps.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/landings/landingNameAndEdit.js",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reactJSX/offerDirective.jsx",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/addEditComponent.jsx",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/reports/drillDown.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/clickFilters/list.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/clickFilters/list.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reports/drillDown.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/clickFilters/filter.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/clickFilters.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/init.js",
+		"/Users/joshuabernitt/kitePlayGround.py",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/landings.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/functions.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/csvExport.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/offersService.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/dialogs/editAccessRole.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/dialogs/selectItems.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/dialogs/selectItems.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/dialogs/editAccessRole.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/landingPagesService.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/accessControl.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/userService.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/admin/accessControl.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/admin/accessControl.html",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/selectCampaignsAndTags.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/report/view.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/landings.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/offers.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/campaigns/swapRotations.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/campaigns/swapRotations.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/trafficsources.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/addRule.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/addRule.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/trafficSourceAdd.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/directives/trafficSourceAdd.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/trafficsources.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/tracking/log.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/services/trackingService.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/twoTableModal.js",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/networks.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/landings.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/landings/addMatchLandings.js",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns.html",
+		"/Users/joshuabernitt/Downloads/transactions (1).QFX",
+		"/Users/joshuabernitt/.zshrc",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/clicks.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/clickLogCsvExport.js",
+		"/Users/joshuabernitt/thrivetracker/aggregator/index.php",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/tracking/log.html",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/consoleLog.sublime-snippet",
+		"/Users/joshuabernitt/sublimeJSSnippets",
+		"/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/other_variables.html",
+		"/Users/joshuabernitt/thrivetracker/public_html/app/models/otherVariables.class.php",
+		"/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/other_variables.js",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/joshuabernitt/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"/Users/joshuabernitt/thrivetracker/public_html/",
+			"/Users/joshuabernitt/thrivetracker/public_html/scripts",
+			"/Users/joshuabernitt/thrivetracker/public_html",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"viser",
+			"visor",
+			"uifont",
+			"colstodisplay",
+			"console",
+			"console.log",
+			"visibleData",
+			"data: \\$\\.param\\((.*?)\\)",
+			"isEqual",
+			"createReport",
+			"$_session",
+			"queue/g",
+			"queue/get",
+			"buildReportData",
+			"createReport",
+			"callback",
+			"addGoalItemsToRot",
+			"getSelectedNewOffersTypes",
+			"getSelectedNewOffers",
+			"options",
+			"offers",
+			"selected",
+			"insertOffersIntoRotationsSettings",
+			"_.",
+			"underscore",
+			".map",
+			"map",
+			"processOffers",
+			"getAllOffers",
+			"tertiaryBtn",
+			"icon",
+			"clickableIconTitle",
+			"react",
+			"Add offers",
+			"offerId",
+			"summarytablemodel",
+			"summaryoffers",
+			"renderTables",
+			"offers",
+			"summaryTableModel",
+			"jqueryBits",
+			"fade",
+			"editLPMo",
+			"edit",
+			"overall Summary",
+			"direct",
+			"Error: at least 1 direct linked offer",
+			"getmetrics",
+			"data2",
+			"data1",
+			"first",
+			"treeViewHeaders",
+			"list_to_array",
+			"._list_to_array",
+			"bar",
+			"editAccessRole.html",
+			"userService",
+			"archiveService",
+			"displayData",
+			"default.selectedGroups",
+			"default",
+			"$scope.selected",
+			"resetSelectedOnSourceChange",
+			"console.log",
+			"data",
+			"displayData",
+			"Care",
+			"create sub",
+			"592",
+			"add-redirect-rule",
+			"create rule",
+			"modulo",
+			"978-0-12-407726-3 ",
+			"sanit",
+			"sanitie",
+			"exportRequest",
+			"makeCSV",
+			"info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/singleTableModal.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4225,
+										4226
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4219,
+										4220
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/table.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1078.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/views/directives/rotationCreate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/views/campaigns/offers_and_lps.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										55,
+										65
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										11
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/controllers/campaigns/offers_and_lps.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/addOfferRot.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/views/directives/addOfferRot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1692,
+								1692
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/reactJSX/insertIntoRotations.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/directives/rotationCreate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3545,
+								3545
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/joshuabernitt/thrivetracker/public_html/scripts/reactComponentsVendor/buttons.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1350,
+										1351
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										304,
+										305
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thrivetracker.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"table",
+				"thrivetracker/public_html/scripts/reactComponentsVendor/table.js"
+			],
+			[
+				"buttons",
+				"thrivetracker/public_html/scripts/reactComponentsVendor/buttons.js"
+			],
+			[
+				"addoff",
+				"thrivetracker/public_html/views/directives/addOfferRot.html"
+			],
+			[
+				"addoffer",
+				"thrivetracker/public_html/scripts/directives/addOfferRot.js"
+			],
+			[
+				"offers_and",
+				"thrivetracker/public_html/scripts/controllers/campaigns/offers_and_lps.js"
+			],
+			[
+				"offers_an",
+				"thrivetracker/public_html/views/campaigns/offers_and_lps.html"
+			],
+			[
+				"rotationcreate.ht",
+				"thrivetracker/public_html/views/directives/rotationCreate.html"
+			],
+			[
+				"insert",
+				"thrivetracker/public_html/scripts/directives/reactJSX/insertIntoRotations.js"
+			],
+			[
+				"rotation",
+				"thrivetracker/public_html/scripts/directives/rotationCreate.js"
+			],
+			[
+				"createrot",
+				"thrivetracker/public_html/scripts/controllers/campaigns/create_rotations.js"
+			],
+			[
+				"largearra",
+				"thrivetracker/tests/scripts/largeArrayToList.spec.js"
+			],
+			[
+				"app",
+				"thrivetracker/public_html/scripts/app.js"
+			],
+			[
+				"initfun",
+				"thrivetracker/public_html/scripts/initFuncs.js"
+			],
+			[
+				"unser",
+				"thrivetracker/tests/scripts/unserialize.js"
+			],
+			[
+				"singletable",
+				"thrivetracker/public_html/scripts/reactComponentsVendor/singleTableModal.js"
+			],
+			[
+				"showdrilld",
+				"thrivetracker/public_html/views/reports/showDrillDown.html"
+			],
+			[
+				"drilldown.html",
+				"thrivetracker/public_html/views/campaigns/drillDown.html"
+			],
+			[
+				"reportserve",
+				"thrivetracker/public_html/scripts/services/reportsServices.js"
+			],
+			[
+				"create_g",
+				"thrivetracker/public_html/views/campaigns/create_general.html"
+			],
+			[
+				"index",
+				"thrivetracker/public_html/index.php"
+			],
+			[
+				"newdrill",
+				"thrivetracker/public_html/views/reports/newDrillDown.html"
+			],
+			[
+				".thr",
+				"thrivetracker/.thrive"
+			],
+			[
+				"database.php",
+				"thrivetracker/public_html/app/Services/Database/Database.php"
+			],
+			[
+				"confi",
+				"thrivetracker/public_html/app/config.inc.php"
+			],
+			[
+				"config",
+				"thrivetracker/public_html/app/config.inc.php"
+			],
+			[
+				"showdrilldown",
+				"thrivetracker/public_html/scripts/controllers/reports/showDrillDown.js"
+			],
+			[
+				"drilldown",
+				"thrivetracker/public_html/scripts/controllers/campaigns/drillDown.js"
+			],
+			[
+				"newdrilldown",
+				"thrivetracker/public_html/scripts/controllers/reports/newDrillDown.js"
+			],
+			[
+				"queu",
+				"thrivetracker/public_html/app/models/queue.class.php"
+			],
+			[
+				"topna",
+				"thrivetracker/public_html/scripts/controllers/topnav.js"
+			],
+			[
+				"inde",
+				"thrivetracker/public_html/index.php"
+			],
+			[
+				"eslin",
+				"thrivetracker/.eslintrc"
+			],
+			[
+				"addofferro",
+				"thrivetracker/public_html/scripts/directives/addOfferRot.js"
+			],
+			[
+				"addeditoffer",
+				"thrivetracker/public_html/views/directives/offers/addEditOffers.html"
+			],
+			[
+				"offername",
+				"thrivetracker/public_html/scripts/directives/offers/offerNameAndEdit.js"
+			],
+			[
+				"offres.",
+				"thrivetracker/public_html/views/offers.html"
+			],
+			[
+				"offers",
+				"thrivetracker/public_html/scripts/controllers/offers.js"
+			],
+			[
+				"addofferrot",
+				"thrivetracker/public_html/scripts/directives/addOfferRot.js"
+			],
+			[
+				"offernameandedit",
+				"thrivetracker/public_html/scripts/directives/offers/offerNameAndEdit.js"
+			],
+			[
+				"offers.js",
+				"thrivetracker/public_html/scripts/controllers/offers.js"
+			],
+			[
+				"offers.html",
+				"thrivetracker/public_html/views/offers.html"
+			],
+			[
+				"rotationcre",
+				"thrivetracker/public_html/views/directives/rotationCreate.html"
+			],
+			[
+				"rotations",
+				"thrivetracker/public_html/scripts/controllers/campaigns/rotations.js"
+			],
+			[
+				"singletablemod",
+				"thrivetracker/public_html/scripts/reactComponentsVendor/singleTableModal.js"
+			],
+			[
+				"insertintoro",
+				"thrivetracker/public_html/scripts/directives/reactJSX/insertIntoRotations.js"
+			],
+			[
+				"landingnameand",
+				"public_html/scripts/directives/landings/landingNameAndEdit.js"
+			],
+			[
+				"rotation.html",
+				"public_html/views/campaigns/rotation.html"
+			],
+			[
+				"addedit",
+				"public_html/views/directives/offers/addEditOffers.html"
+			],
+			[
+				"rotationmet",
+				"public_html/app/models/rotationMetrics.class.php"
+			],
+			[
+				"offernameand",
+				"public_html/scripts/directives/offers/offerNameAndEdit.js"
+			],
+			[
+				"offerdirec",
+				"public_html/scripts/directives/reactJSX/offerDirective.jsx"
+			],
+			[
+				"offers_and_lps.js",
+				"public_html/scripts/controllers/campaigns/offers_and_lps.js"
+			],
+			[
+				"showdrill",
+				"public_html/scripts/controllers/reports/showDrillDown.js"
+			],
+			[
+				"list.js",
+				"public_html/scripts/controllers/clickFilters/list.js"
+			],
+			[
+				"list.ht",
+				"public_html/views/clickFilters/list.html"
+			],
+			[
+				"clickfilter",
+				"public_html/views/campaigns/clickFilters.html"
+			],
+			[
+				"filter.html",
+				"public_html/views/clickFilters/filter.html"
+			],
+			[
+				"drilldown.js",
+				"public_html/scripts/controllers/campaigns/drillDown.js"
+			],
+			[
+				"ini",
+				"public_html/scripts/init.js"
+			],
+			[
+				"landing",
+				"public_html/scripts/controllers/landings.js"
+			],
+			[
+				"offerservice",
+				"public_html/scripts/services/offersService.js"
+			],
+			[
+				"app.js",
+				"public_html/scripts/app.js"
+			],
+			[
+				"landingpageser",
+				"public_html/scripts/services/landingPagesService.js"
+			],
+			[
+				"accesscontrol.",
+				"public_html/app/models/accessControl.class.php"
+			],
+			[
+				"userser",
+				"public_html/scripts/services/userService.js"
+			],
+			[
+				"selectiems",
+				"public_html/scripts/controllers/dialogs/selectItems.js"
+			],
+			[
+				"selectitems",
+				"public_html/views/dialogs/selectItems.html"
+			],
+			[
+				"editaccessrol",
+				"public_html/scripts/controllers/dialogs/editAccessRole.js"
+			],
+			[
+				"editacces",
+				"public_html/views/dialogs/editAccessRole.html"
+			],
+			[
+				"accesscontrol.js",
+				"public_html/scripts/controllers/admin/accessControl.js"
+			],
+			[
+				"accesscon",
+				"public_html/views/admin/accessControl.html"
+			],
+			[
+				"view.cls",
+				"public_html/app/models/report/view.class.php"
+			],
+			[
+				"reportseri",
+				"public_html/scripts/services/reportsServices.js"
+			],
+			[
+				"selectcamp",
+				"public_html/views/directives/selectCampaignsAndTags.html"
+			],
+			[
+				"rotations.js",
+				"public_html/scripts/controllers/campaigns/rotations.js"
+			],
+			[
+				"config.inc",
+				"public_html/app/config.inc.php"
+			],
+			[
+				"rotations.html",
+				"public_html/views/campaigns/rotations.html"
+			],
+			[
+				"rotaitons.ht",
+				"public_html/views/campaigns/rotations.html"
+			],
+			[
+				"networks",
+				"public_html/app/models/networks.class.php"
+			],
+			[
+				"landings.cla",
+				"public_html/app/models/landings.class.php"
+			],
+			[
+				"landingsser",
+				"public_html/scripts/services/landingPagesService.js"
+			],
+			[
+				"landings.js",
+				"public_html/scripts/controllers/landings.js"
+			],
+			[
+				"offers.class",
+				"public_html/app/models/offers.class.php"
+			],
+			[
+				"offersser",
+				"public_html/scripts/services/offersService.js"
+			],
+			[
+				"access",
+				"public_html/scripts/controllers/admin/accessControl.js"
+			],
+			[
+				"index.php",
+				"public_html/index.php"
+			],
+			[
+				"role",
+				"public_html/views/dialogs/editAccessRole.html"
+			],
+			[
+				"createrole",
+				"public_html/scripts/controllers/dialogs/editAccessRole.js"
+			],
+			[
+				"addrule.html",
+				"public_html/views/directives/addRule.html"
+			],
+			[
+				"trafficsour",
+				"public_html/scripts/directives/trafficSourceAdd.js"
+			],
+			[
+				"traffic",
+				"public_html/scripts/controllers/trafficsources.js"
+			],
+			[
+				"swaprotations.js",
+				"public_html/scripts/directives/campaigns/swapRotations.js"
+			],
+			[
+				"swaprotations",
+				"public_html/views/directives/campaigns/swapRotations.html"
+			],
+			[
+				"landings.html",
+				"public_html/views/landings.html"
+			],
+			[
+				"offers.ht",
+				"public_html/views/offers.html"
+			],
+			[
+				"landings",
+				"public_html/views/landings.html"
+			],
+			[
+				"twotable",
+				"public_html/scripts/reactComponentsVendor/twoTableModal.js"
+			],
+			[
+				"tracking",
+				"public_html/scripts/services/trackingService.js"
+			],
+			[
+				"log",
+				"public_html/scripts/controllers/tracking/log.js"
+			],
+			[
+				"campaigns.h",
+				"public_html/views/campaigns.html"
+			],
+			[
+				"main",
+				"public_html/views/main.html"
+			],
+			[
+				"indexp",
+				"public_html/index.php"
+			],
+			[
+				"clicks.class",
+				"public_html/app/models/clicks.class.php"
+			],
+			[
+				"clicklog",
+				"public_html/scripts/directives/clickLogCsvExport.js"
+			],
+			[
+				"log.html",
+				"public_html/views/tracking/log.html"
+			],
+			[
+				"log.js",
+				"public_html/scripts/controllers/tracking/log.js"
+			],
+			[
+				"other_var",
+				"public_html/views/campaigns/other_variables.html"
+			],
+			[
+				"otherva",
+				"public_html/app/models/otherVariables.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1275.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 449.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
